@@ -6,3 +6,4 @@ requests
 plotly
 textblob
 newsapi-python
+google-generativeai
