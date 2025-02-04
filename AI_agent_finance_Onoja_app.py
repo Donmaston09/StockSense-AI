@@ -60,7 +60,7 @@ def calculate_macd(hist):
 # Streamlit App UI
 st.set_page_config(page_title="Finance AI Agent", layout="wide")
 
-st.title("📈 Finance AI Agent")
+st.title("📈 StockSense AI Agent")
 
 # User input for the API key
 api_key = st.text_input("Enter your News API Key:", "")
